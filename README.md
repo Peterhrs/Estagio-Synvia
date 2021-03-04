@@ -23,9 +23,12 @@ sera necessario utilizar o comando  no prompt de comando para instalar o npm/nod
 -[npm install -g npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 caso ter duvidas só utilizar o link ao lado .
 
+
 ## Features
 
-O projeto pode ser usado como modelo para iniciar o desenvolvimento de um projeto web em javascript com requisições http , monstrando de forma pratica como fazer essa essas requisiço e tambem uma estilização simples e eficaz 
+O projeto pode ser usado como modelo para iniciar o desenvolvimento de um projeto web em javascript com requisições http , monstrando de forma pratica como fazer essa essas requisiço e tambem uma estilização simples e eficaz .
+
+para vizualizar o resultado abra a pasta do projeto e  veja o arquivo com o nome index.
 
 
 
